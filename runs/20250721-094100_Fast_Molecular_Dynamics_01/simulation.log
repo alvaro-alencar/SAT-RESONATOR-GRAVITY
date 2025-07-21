@@ -1,0 +1,10 @@
+2025-07-21 09:41:00 - [INFO] - main - --- Iniciando Simulação: Fast_Molecular_Dynamics_01 ---
+2025-07-21 09:41:00 - [INFO] - main - Diretório de resultados: runs\20250721-094100_Fast_Molecular_Dynamics_01
+2025-07-21 09:41:00 - [INFO] - main - Módulo de física 'physics.fast_molecular_dynamics' carregado.
+2025-07-21 09:41:00 - [INFO] - universe - Universo inicializado com 2 corpos.
+2025-07-21 09:41:19 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 549081
+2025-07-21 09:41:22 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 473344
+2025-07-21 09:41:22 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 473344
+2025-07-21 09:41:22 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 331776
+2025-07-21 09:41:22 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 275625
+2025-07-21 09:41:22 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 187489

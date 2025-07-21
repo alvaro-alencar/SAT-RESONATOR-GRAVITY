@@ -1,0 +1,68 @@
+2025-07-21 09:44:54 - [INFO] - main - --- [PRINCIPAL] Iniciando Simulação: Fast_Molecular_Dynamics_01 ---
+2025-07-21 09:44:54 - [INFO] - main - Módulo de física 'physics.fast_molecular_dynamics' carregado.
+2025-07-21 09:44:54 - [INFO] - universe - Universo inicializado com 2 corpos.
+2025-07-21 09:44:55 - [INFO] - main - --- [CÉREBRO] Calculando Instante 1 ---
+2025-07-21 09:45:14 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 549081
+2025-07-21 09:45:14 - [INFO] - main - --- [CÉREBRO] Calculando Instante 2 ---
+2025-07-21 09:45:16 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 473344
+2025-07-21 09:45:16 - [INFO] - main - --- [CÉREBRO] Calculando Instante 3 ---
+2025-07-21 09:45:16 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 473344
+2025-07-21 09:45:16 - [INFO] - main - --- [CÉREBRO] Calculando Instante 4 ---
+2025-07-21 09:45:16 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 331776
+2025-07-21 09:45:16 - [INFO] - main - --- [CÉREBRO] Calculando Instante 5 ---
+2025-07-21 09:45:16 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 275625
+2025-07-21 09:45:16 - [INFO] - main - --- [CÉREBRO] Calculando Instante 6 ---
+2025-07-21 09:45:17 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 187489
+2025-07-21 09:45:17 - [INFO] - main - --- [CÉREBRO] Calculando Instante 7 ---
+2025-07-21 09:52:35 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 116281
+2025-07-21 09:52:35 - [INFO] - main - --- [CÉREBRO] Calculando Instante 8 ---
+2025-07-21 09:52:56 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 116281
+2025-07-21 09:52:56 - [INFO] - main - --- [CÉREBRO] Calculando Instante 9 ---
+2025-07-21 09:52:56 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 116964
+2025-07-21 09:52:56 - [INFO] - main - --- [CÉREBRO] Calculando Instante 10 ---
+2025-07-21 09:52:56 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 116281
+2025-07-21 09:52:56 - [INFO] - main - --- [CÉREBRO] Calculando Instante 11 ---
+2025-07-21 09:52:56 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 116964
+2025-07-21 09:52:56 - [INFO] - main - --- [CÉREBRO] Calculando Instante 12 ---
+2025-07-21 09:52:56 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 68121
+2025-07-21 09:52:56 - [INFO] - main - --- [CÉREBRO] Calculando Instante 13 ---
+2025-07-21 09:52:58 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 50625
+2025-07-21 09:52:58 - [INFO] - main - --- [CÉREBRO] Calculando Instante 14 ---
+2025-07-21 09:52:58 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 50625
+2025-07-21 09:52:58 - [INFO] - main - --- [CÉREBRO] Calculando Instante 15 ---
+2025-07-21 09:52:58 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 24336
+2025-07-21 09:52:58 - [INFO] - main - --- [CÉREBRO] Calculando Instante 16 ---
+2025-07-21 09:52:58 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 16641
+2025-07-21 09:52:59 - [INFO] - main - --- [CÉREBRO] Calculando Instante 17 ---
+2025-07-21 09:52:59 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 4761
+2025-07-21 09:52:59 - [INFO] - main - --- [CÉREBRO] Calculando Instante 18 ---
+2025-07-21 09:52:59 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 2304
+2025-07-21 09:52:59 - [INFO] - main - --- [CÉREBRO] Calculando Instante 19 ---
+2025-07-21 09:52:59 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 3600
+2025-07-21 09:52:59 - [INFO] - main - --- [CÉREBRO] Calculando Instante 20 ---
+2025-07-21 09:52:59 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 14641
+2025-07-21 09:52:59 - [INFO] - main - --- [CÉREBRO] Calculando Instante 21 ---
+2025-07-21 09:52:59 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 32761
+2025-07-21 09:52:59 - [INFO] - main - --- [CÉREBRO] Calculando Instante 22 ---
+2025-07-21 09:52:59 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 74529
+2025-07-21 09:52:59 - [INFO] - main - --- [CÉREBRO] Calculando Instante 23 ---
+2025-07-21 09:53:00 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 32761
+2025-07-21 09:53:00 - [INFO] - main - --- [CÉREBRO] Calculando Instante 24 ---
+2025-07-21 09:53:00 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 74529
+2025-07-21 09:53:00 - [INFO] - main - --- [CÉREBRO] Calculando Instante 25 ---
+2025-07-21 09:55:21 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 32761
+2025-07-21 09:55:21 - [INFO] - main - --- [CÉREBRO] Calculando Instante 26 ---
+2025-07-21 09:55:21 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 42025
+2025-07-21 09:55:21 - [INFO] - main - --- [CÉREBRO] Calculando Instante 27 ---
+2025-07-21 09:55:21 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 64009
+2025-07-21 09:55:21 - [INFO] - main - --- [CÉREBRO] Calculando Instante 28 ---
+2025-07-21 09:55:22 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 93025
+2025-07-21 09:55:22 - [INFO] - main - --- [CÉREBRO] Calculando Instante 29 ---
+2025-07-21 09:55:22 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 82944
+2025-07-21 09:55:22 - [INFO] - main - --- [CÉREBRO] Calculando Instante 30 ---
+2025-07-21 10:00:24 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 36864
+2025-07-21 10:00:24 - [INFO] - main - --- [CÉREBRO] Calculando Instante 31 ---
+2025-07-21 10:01:14 - [INFO] - main - Aguardando a finalização da thread de cálculo...
+2025-07-21 10:01:14 - [INFO] - main - Imagem final salva em: runs\20250721-094454_Fast_Molecular_Dynamics_01\final_state.png
+2025-07-21 10:01:14 - [INFO] - main - --- Simulação Terminada ---
+2025-07-21 10:01:46 - [WARNING] - fast_molecular_dynamics - Otimizador não encontrou solução. Corpos em equilíbrio ou presos.

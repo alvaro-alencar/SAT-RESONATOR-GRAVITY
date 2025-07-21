@@ -1,0 +1,606 @@
+2025-07-21 10:02:09 - [INFO] - main - --- [PRINCIPAL] Iniciando Simulação: Fast_Molecular_Dynamics_01 ---
+2025-07-21 10:02:09 - [INFO] - main - Módulo de física 'physics.fast_molecular_dynamics' carregado.
+2025-07-21 10:02:09 - [INFO] - universe - Universo inicializado com 2 corpos.
+2025-07-21 10:02:09 - [INFO] - main - --- [CÉREBRO] Calculando Instante 1 ---
+2025-07-21 10:02:14 - [WARNING] - fast_molecular_dynamics - TIMEOUT! O cálculo foi muito complexo. Corpos permanecem estáticos neste instante.
+2025-07-21 10:02:14 - [INFO] - main - --- [CÉREBRO] Calculando Instante 2 ---
+2025-07-21 10:02:14 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 550564
+2025-07-21 10:02:15 - [INFO] - main - --- [CÉREBRO] Calculando Instante 3 ---
+2025-07-21 10:02:15 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 395641
+2025-07-21 10:02:15 - [INFO] - main - --- [CÉREBRO] Calculando Instante 4 ---
+2025-07-21 10:02:15 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 396900
+2025-07-21 10:02:15 - [INFO] - main - --- [CÉREBRO] Calculando Instante 5 ---
+2025-07-21 10:02:15 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 407044
+2025-07-21 10:02:15 - [INFO] - main - --- [CÉREBRO] Calculando Instante 6 ---
+2025-07-21 10:02:20 - [WARNING] - fast_molecular_dynamics - TIMEOUT! O cálculo foi muito complexo. Corpos permanecem estáticos neste instante.
+2025-07-21 10:02:20 - [INFO] - main - --- [CÉREBRO] Calculando Instante 7 ---
+2025-07-21 10:02:20 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 490000
+2025-07-21 10:02:20 - [INFO] - main - --- [CÉREBRO] Calculando Instante 8 ---
+2025-07-21 10:02:20 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 480249
+2025-07-21 10:02:20 - [INFO] - main - --- [CÉREBRO] Calculando Instante 9 ---
+2025-07-21 10:02:20 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 550564
+2025-07-21 10:02:20 - [INFO] - main - --- [CÉREBRO] Calculando Instante 10 ---
+2025-07-21 10:02:20 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 395641
+2025-07-21 10:02:20 - [INFO] - main - --- [CÉREBRO] Calculando Instante 11 ---
+2025-07-21 10:02:21 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 275625
+2025-07-21 10:02:21 - [INFO] - main - --- [CÉREBRO] Calculando Instante 12 ---
+2025-07-21 10:02:21 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 275625
+2025-07-21 10:02:21 - [INFO] - main - --- [CÉREBRO] Calculando Instante 13 ---
+2025-07-21 10:02:21 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 184041
+2025-07-21 10:02:21 - [INFO] - main - --- [CÉREBRO] Calculando Instante 14 ---
+2025-07-21 10:02:22 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 184041
+2025-07-21 10:02:22 - [INFO] - main - --- [CÉREBRO] Calculando Instante 15 ---
+2025-07-21 10:02:27 - [WARNING] - fast_molecular_dynamics - TIMEOUT! O cálculo foi muito complexo. Corpos permanecem estáticos neste instante.
+2025-07-21 10:02:27 - [INFO] - main - --- [CÉREBRO] Calculando Instante 16 ---
+2025-07-21 10:02:32 - [WARNING] - fast_molecular_dynamics - TIMEOUT! O cálculo foi muito complexo. Corpos permanecem estáticos neste instante.
+2025-07-21 10:02:32 - [INFO] - main - --- [CÉREBRO] Calculando Instante 17 ---
+2025-07-21 10:02:32 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 150544
+2025-07-21 10:02:32 - [INFO] - main - --- [CÉREBRO] Calculando Instante 18 ---
+2025-07-21 10:02:37 - [WARNING] - fast_molecular_dynamics - TIMEOUT! O cálculo foi muito complexo. Corpos permanecem estáticos neste instante.
+2025-07-21 10:02:37 - [INFO] - main - --- [CÉREBRO] Calculando Instante 19 ---
+2025-07-21 10:02:38 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 90000
+2025-07-21 10:02:38 - [INFO] - main - --- [CÉREBRO] Calculando Instante 20 ---
+2025-07-21 10:02:38 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 90000
+2025-07-21 10:02:38 - [INFO] - main - --- [CÉREBRO] Calculando Instante 21 ---
+2025-07-21 10:02:43 - [WARNING] - fast_molecular_dynamics - TIMEOUT! O cálculo foi muito complexo. Corpos permanecem estáticos neste instante.
+2025-07-21 10:02:43 - [INFO] - main - --- [CÉREBRO] Calculando Instante 22 ---
+2025-07-21 10:02:44 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 147456
+2025-07-21 10:02:44 - [INFO] - main - --- [CÉREBRO] Calculando Instante 23 ---
+2025-07-21 10:02:49 - [WARNING] - fast_molecular_dynamics - TIMEOUT! O cálculo foi muito complexo. Corpos permanecem estáticos neste instante.
+2025-07-21 10:02:49 - [INFO] - main - --- [CÉREBRO] Calculando Instante 24 ---
+2025-07-21 10:02:54 - [WARNING] - fast_molecular_dynamics - TIMEOUT! O cálculo foi muito complexo. Corpos permanecem estáticos neste instante.
+2025-07-21 10:02:54 - [INFO] - main - --- [CÉREBRO] Calculando Instante 25 ---
+2025-07-21 10:02:57 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 147456
+2025-07-21 10:02:57 - [INFO] - main - --- [CÉREBRO] Calculando Instante 26 ---
+2025-07-21 10:02:57 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 116281
+2025-07-21 10:02:57 - [INFO] - main - --- [CÉREBRO] Calculando Instante 27 ---
+2025-07-21 10:02:57 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 90000
+2025-07-21 10:02:57 - [INFO] - main - --- [CÉREBRO] Calculando Instante 28 ---
+2025-07-21 10:02:59 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 50176
+2025-07-21 10:02:59 - [INFO] - main - --- [CÉREBRO] Calculando Instante 29 ---
+2025-07-21 10:03:04 - [WARNING] - fast_molecular_dynamics - TIMEOUT! O cálculo foi muito complexo. Corpos permanecem estáticos neste instante.
+2025-07-21 10:03:04 - [INFO] - main - --- [CÉREBRO] Calculando Instante 30 ---
+2025-07-21 10:03:05 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 25600
+2025-07-21 10:03:05 - [INFO] - main - --- [CÉREBRO] Calculando Instante 31 ---
+2025-07-21 10:03:05 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 39204
+2025-07-21 10:03:05 - [INFO] - main - --- [CÉREBRO] Calculando Instante 32 ---
+2025-07-21 10:03:05 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 51984
+2025-07-21 10:03:05 - [INFO] - main - --- [CÉREBRO] Calculando Instante 33 ---
+2025-07-21 10:03:10 - [WARNING] - fast_molecular_dynamics - TIMEOUT! O cálculo foi muito complexo. Corpos permanecem estáticos neste instante.
+2025-07-21 10:03:10 - [INFO] - main - --- [CÉREBRO] Calculando Instante 34 ---
+2025-07-21 10:03:15 - [WARNING] - fast_molecular_dynamics - TIMEOUT! O cálculo foi muito complexo. Corpos permanecem estáticos neste instante.
+2025-07-21 10:03:15 - [INFO] - main - --- [CÉREBRO] Calculando Instante 35 ---
+2025-07-21 10:03:15 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 51984
+2025-07-21 10:03:15 - [INFO] - main - --- [CÉREBRO] Calculando Instante 36 ---
+2025-07-21 10:03:15 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 57600
+2025-07-21 10:03:15 - [INFO] - main - --- [CÉREBRO] Calculando Instante 37 ---
+2025-07-21 10:03:15 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 62001
+2025-07-21 10:03:15 - [INFO] - main - --- [CÉREBRO] Calculando Instante 38 ---
+2025-07-21 10:03:16 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 27225
+2025-07-21 10:03:16 - [INFO] - main - --- [CÉREBRO] Calculando Instante 39 ---
+2025-07-21 10:03:21 - [WARNING] - fast_molecular_dynamics - TIMEOUT! O cálculo foi muito complexo. Corpos permanecem estáticos neste instante.
+2025-07-21 10:03:21 - [INFO] - main - --- [CÉREBRO] Calculando Instante 40 ---
+2025-07-21 10:03:21 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 9409
+2025-07-21 10:03:21 - [INFO] - main - --- [CÉREBRO] Calculando Instante 41 ---
+2025-07-21 10:03:21 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 2304
+2025-07-21 10:03:21 - [INFO] - main - --- [CÉREBRO] Calculando Instante 42 ---
+2025-07-21 10:03:21 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 3600
+2025-07-21 10:03:21 - [INFO] - main - --- [CÉREBRO] Calculando Instante 43 ---
+2025-07-21 10:03:21 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 16
+2025-07-21 10:03:21 - [INFO] - main - --- [CÉREBRO] Calculando Instante 44 ---
+2025-07-21 10:03:23 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:03:23 - [INFO] - main - --- [CÉREBRO] Calculando Instante 45 ---
+2025-07-21 10:03:23 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:03:23 - [INFO] - main - --- [CÉREBRO] Calculando Instante 46 ---
+2025-07-21 10:03:28 - [WARNING] - fast_molecular_dynamics - TIMEOUT! O cálculo foi muito complexo. Corpos permanecem estáticos neste instante.
+2025-07-21 10:03:28 - [INFO] - main - --- [CÉREBRO] Calculando Instante 47 ---
+2025-07-21 10:03:28 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:03:28 - [INFO] - main - --- [CÉREBRO] Calculando Instante 48 ---
+2025-07-21 10:03:29 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:03:29 - [INFO] - main - --- [CÉREBRO] Calculando Instante 49 ---
+2025-07-21 10:03:29 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 324
+2025-07-21 10:03:29 - [INFO] - main - --- [CÉREBRO] Calculando Instante 50 ---
+2025-07-21 10:03:34 - [WARNING] - fast_molecular_dynamics - TIMEOUT! O cálculo foi muito complexo. Corpos permanecem estáticos neste instante.
+2025-07-21 10:03:34 - [INFO] - main - --- [CÉREBRO] Calculando Instante 51 ---
+2025-07-21 10:03:35 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:03:35 - [INFO] - main - --- [CÉREBRO] Calculando Instante 52 ---
+2025-07-21 10:03:35 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:03:35 - [INFO] - main - --- [CÉREBRO] Calculando Instante 53 ---
+2025-07-21 10:03:35 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:03:35 - [INFO] - main - --- [CÉREBRO] Calculando Instante 54 ---
+2025-07-21 10:03:35 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:03:35 - [INFO] - main - --- [CÉREBRO] Calculando Instante 55 ---
+2025-07-21 10:03:35 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 324
+2025-07-21 10:03:35 - [INFO] - main - --- [CÉREBRO] Calculando Instante 56 ---
+2025-07-21 10:03:35 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 1296
+2025-07-21 10:03:35 - [INFO] - main - --- [CÉREBRO] Calculando Instante 57 ---
+2025-07-21 10:03:36 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:03:36 - [INFO] - main - --- [CÉREBRO] Calculando Instante 58 ---
+2025-07-21 10:03:36 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:03:36 - [INFO] - main - --- [CÉREBRO] Calculando Instante 59 ---
+2025-07-21 10:03:41 - [WARNING] - fast_molecular_dynamics - TIMEOUT! O cálculo foi muito complexo. Corpos permanecem estáticos neste instante.
+2025-07-21 10:03:41 - [INFO] - main - --- [CÉREBRO] Calculando Instante 60 ---
+2025-07-21 10:03:42 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 1
+2025-07-21 10:03:42 - [INFO] - main - --- [CÉREBRO] Calculando Instante 61 ---
+2025-07-21 10:03:42 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:03:42 - [INFO] - main - --- [CÉREBRO] Calculando Instante 62 ---
+2025-07-21 10:03:47 - [WARNING] - fast_molecular_dynamics - TIMEOUT! O cálculo foi muito complexo. Corpos permanecem estáticos neste instante.
+2025-07-21 10:03:47 - [INFO] - main - --- [CÉREBRO] Calculando Instante 63 ---
+2025-07-21 10:03:49 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:03:49 - [INFO] - main - --- [CÉREBRO] Calculando Instante 64 ---
+2025-07-21 10:03:50 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:03:50 - [INFO] - main - --- [CÉREBRO] Calculando Instante 65 ---
+2025-07-21 10:03:50 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:03:50 - [INFO] - main - --- [CÉREBRO] Calculando Instante 66 ---
+2025-07-21 10:03:50 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 484
+2025-07-21 10:03:50 - [INFO] - main - --- [CÉREBRO] Calculando Instante 67 ---
+2025-07-21 10:03:50 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 2809
+2025-07-21 10:03:50 - [INFO] - main - --- [CÉREBRO] Calculando Instante 68 ---
+2025-07-21 10:03:50 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 1
+2025-07-21 10:03:50 - [INFO] - main - --- [CÉREBRO] Calculando Instante 69 ---
+2025-07-21 10:03:50 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 900
+2025-07-21 10:03:50 - [INFO] - main - --- [CÉREBRO] Calculando Instante 70 ---
+2025-07-21 10:03:52 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 1
+2025-07-21 10:03:52 - [INFO] - main - --- [CÉREBRO] Calculando Instante 71 ---
+2025-07-21 10:03:52 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:03:52 - [INFO] - main - --- [CÉREBRO] Calculando Instante 72 ---
+2025-07-21 10:03:52 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:03:52 - [INFO] - main - --- [CÉREBRO] Calculando Instante 73 ---
+2025-07-21 10:03:52 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:03:52 - [INFO] - main - --- [CÉREBRO] Calculando Instante 74 ---
+2025-07-21 10:03:54 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 16
+2025-07-21 10:03:54 - [INFO] - main - --- [CÉREBRO] Calculando Instante 75 ---
+2025-07-21 10:03:54 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 625
+2025-07-21 10:03:54 - [INFO] - main - --- [CÉREBRO] Calculando Instante 76 ---
+2025-07-21 10:03:54 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:03:54 - [INFO] - main - --- [CÉREBRO] Calculando Instante 77 ---
+2025-07-21 10:03:54 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:03:54 - [INFO] - main - --- [CÉREBRO] Calculando Instante 78 ---
+2025-07-21 10:03:55 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:03:55 - [INFO] - main - --- [CÉREBRO] Calculando Instante 79 ---
+2025-07-21 10:03:55 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:03:55 - [INFO] - main - --- [CÉREBRO] Calculando Instante 80 ---
+2025-07-21 10:03:55 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:03:55 - [INFO] - main - --- [CÉREBRO] Calculando Instante 81 ---
+2025-07-21 10:03:56 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 484
+2025-07-21 10:03:56 - [INFO] - main - --- [CÉREBRO] Calculando Instante 82 ---
+2025-07-21 10:04:01 - [WARNING] - fast_molecular_dynamics - TIMEOUT! O cálculo foi muito complexo. Corpos permanecem estáticos neste instante.
+2025-07-21 10:04:01 - [INFO] - main - --- [CÉREBRO] Calculando Instante 83 ---
+2025-07-21 10:04:01 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 2025
+2025-07-21 10:04:01 - [INFO] - main - --- [CÉREBRO] Calculando Instante 84 ---
+2025-07-21 10:04:03 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:04:03 - [INFO] - main - --- [CÉREBRO] Calculando Instante 85 ---
+2025-07-21 10:04:08 - [WARNING] - fast_molecular_dynamics - TIMEOUT! O cálculo foi muito complexo. Corpos permanecem estáticos neste instante.
+2025-07-21 10:04:08 - [INFO] - main - --- [CÉREBRO] Calculando Instante 86 ---
+2025-07-21 10:04:08 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:04:08 - [INFO] - main - --- [CÉREBRO] Calculando Instante 87 ---
+2025-07-21 10:04:08 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:04:08 - [INFO] - main - --- [CÉREBRO] Calculando Instante 88 ---
+2025-07-21 10:04:08 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:04:08 - [INFO] - main - --- [CÉREBRO] Calculando Instante 89 ---
+2025-07-21 10:04:09 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:04:09 - [INFO] - main - --- [CÉREBRO] Calculando Instante 90 ---
+2025-07-21 10:04:09 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:04:09 - [INFO] - main - --- [CÉREBRO] Calculando Instante 91 ---
+2025-07-21 10:04:09 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:04:09 - [INFO] - main - --- [CÉREBRO] Calculando Instante 92 ---
+2025-07-21 10:04:10 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:04:10 - [INFO] - main - --- [CÉREBRO] Calculando Instante 93 ---
+2025-07-21 10:04:10 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:04:10 - [INFO] - main - --- [CÉREBRO] Calculando Instante 94 ---
+2025-07-21 10:04:10 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:04:10 - [INFO] - main - --- [CÉREBRO] Calculando Instante 95 ---
+2025-07-21 10:04:13 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:04:13 - [INFO] - main - --- [CÉREBRO] Calculando Instante 96 ---
+2025-07-21 10:04:14 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:04:14 - [INFO] - main - --- [CÉREBRO] Calculando Instante 97 ---
+2025-07-21 10:04:14 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:04:14 - [INFO] - main - --- [CÉREBRO] Calculando Instante 98 ---
+2025-07-21 10:04:14 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:04:14 - [INFO] - main - --- [CÉREBRO] Calculando Instante 99 ---
+2025-07-21 10:04:14 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:04:14 - [INFO] - main - --- [CÉREBRO] Calculando Instante 100 ---
+2025-07-21 10:04:15 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:04:15 - [INFO] - main - --- [CÉREBRO] Calculando Instante 101 ---
+2025-07-21 10:04:20 - [WARNING] - fast_molecular_dynamics - TIMEOUT! O cálculo foi muito complexo. Corpos permanecem estáticos neste instante.
+2025-07-21 10:04:20 - [INFO] - main - --- [CÉREBRO] Calculando Instante 102 ---
+2025-07-21 10:04:25 - [WARNING] - fast_molecular_dynamics - TIMEOUT! O cálculo foi muito complexo. Corpos permanecem estáticos neste instante.
+2025-07-21 10:04:25 - [INFO] - main - --- [CÉREBRO] Calculando Instante 103 ---
+2025-07-21 10:04:25 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:04:25 - [INFO] - main - --- [CÉREBRO] Calculando Instante 104 ---
+2025-07-21 10:04:25 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:04:25 - [INFO] - main - --- [CÉREBRO] Calculando Instante 105 ---
+2025-07-21 10:04:26 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:04:26 - [INFO] - main - --- [CÉREBRO] Calculando Instante 106 ---
+2025-07-21 10:04:29 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:04:29 - [INFO] - main - --- [CÉREBRO] Calculando Instante 107 ---
+2025-07-21 10:04:29 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:04:29 - [INFO] - main - --- [CÉREBRO] Calculando Instante 108 ---
+2025-07-21 10:04:34 - [WARNING] - fast_molecular_dynamics - TIMEOUT! O cálculo foi muito complexo. Corpos permanecem estáticos neste instante.
+2025-07-21 10:04:34 - [INFO] - main - --- [CÉREBRO] Calculando Instante 109 ---
+2025-07-21 10:04:34 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:04:34 - [INFO] - main - --- [CÉREBRO] Calculando Instante 110 ---
+2025-07-21 10:04:35 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:04:35 - [INFO] - main - --- [CÉREBRO] Calculando Instante 111 ---
+2025-07-21 10:04:35 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:04:35 - [INFO] - main - --- [CÉREBRO] Calculando Instante 112 ---
+2025-07-21 10:04:35 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:04:35 - [INFO] - main - --- [CÉREBRO] Calculando Instante 113 ---
+2025-07-21 10:04:35 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 441
+2025-07-21 10:04:35 - [INFO] - main - --- [CÉREBRO] Calculando Instante 114 ---
+2025-07-21 10:04:35 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:04:35 - [INFO] - main - --- [CÉREBRO] Calculando Instante 115 ---
+2025-07-21 10:04:36 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:04:36 - [INFO] - main - --- [CÉREBRO] Calculando Instante 116 ---
+2025-07-21 10:04:36 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:04:36 - [INFO] - main - --- [CÉREBRO] Calculando Instante 117 ---
+2025-07-21 10:04:36 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:04:36 - [INFO] - main - --- [CÉREBRO] Calculando Instante 118 ---
+2025-07-21 10:04:36 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:04:36 - [INFO] - main - --- [CÉREBRO] Calculando Instante 119 ---
+2025-07-21 10:04:41 - [WARNING] - fast_molecular_dynamics - TIMEOUT! O cálculo foi muito complexo. Corpos permanecem estáticos neste instante.
+2025-07-21 10:04:41 - [INFO] - main - --- [CÉREBRO] Calculando Instante 120 ---
+2025-07-21 10:04:46 - [WARNING] - fast_molecular_dynamics - TIMEOUT! O cálculo foi muito complexo. Corpos permanecem estáticos neste instante.
+2025-07-21 10:04:46 - [INFO] - main - --- [CÉREBRO] Calculando Instante 121 ---
+2025-07-21 10:04:48 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:04:48 - [INFO] - main - --- [CÉREBRO] Calculando Instante 122 ---
+2025-07-21 10:04:48 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:04:48 - [INFO] - main - --- [CÉREBRO] Calculando Instante 123 ---
+2025-07-21 10:04:48 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:04:48 - [INFO] - main - --- [CÉREBRO] Calculando Instante 124 ---
+2025-07-21 10:04:48 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 484
+2025-07-21 10:04:48 - [INFO] - main - --- [CÉREBRO] Calculando Instante 125 ---
+2025-07-21 10:04:49 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:04:49 - [INFO] - main - --- [CÉREBRO] Calculando Instante 126 ---
+2025-07-21 10:04:49 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 324
+2025-07-21 10:04:49 - [INFO] - main - --- [CÉREBRO] Calculando Instante 127 ---
+2025-07-21 10:04:49 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:04:49 - [INFO] - main - --- [CÉREBRO] Calculando Instante 128 ---
+2025-07-21 10:04:49 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:04:49 - [INFO] - main - --- [CÉREBRO] Calculando Instante 129 ---
+2025-07-21 10:04:51 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:04:51 - [INFO] - main - --- [CÉREBRO] Calculando Instante 130 ---
+2025-07-21 10:04:56 - [WARNING] - fast_molecular_dynamics - TIMEOUT! O cálculo foi muito complexo. Corpos permanecem estáticos neste instante.
+2025-07-21 10:04:56 - [INFO] - main - --- [CÉREBRO] Calculando Instante 131 ---
+2025-07-21 10:04:57 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:04:57 - [INFO] - main - --- [CÉREBRO] Calculando Instante 132 ---
+2025-07-21 10:04:57 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:04:57 - [INFO] - main - --- [CÉREBRO] Calculando Instante 133 ---
+2025-07-21 10:04:58 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:04:58 - [INFO] - main - --- [CÉREBRO] Calculando Instante 134 ---
+2025-07-21 10:04:58 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 625
+2025-07-21 10:04:58 - [INFO] - main - --- [CÉREBRO] Calculando Instante 135 ---
+2025-07-21 10:05:03 - [WARNING] - fast_molecular_dynamics - TIMEOUT! O cálculo foi muito complexo. Corpos permanecem estáticos neste instante.
+2025-07-21 10:05:03 - [INFO] - main - --- [CÉREBRO] Calculando Instante 136 ---
+2025-07-21 10:05:03 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:05:03 - [INFO] - main - --- [CÉREBRO] Calculando Instante 137 ---
+2025-07-21 10:05:03 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:05:03 - [INFO] - main - --- [CÉREBRO] Calculando Instante 138 ---
+2025-07-21 10:05:08 - [WARNING] - fast_molecular_dynamics - TIMEOUT! O cálculo foi muito complexo. Corpos permanecem estáticos neste instante.
+2025-07-21 10:05:08 - [INFO] - main - --- [CÉREBRO] Calculando Instante 139 ---
+2025-07-21 10:05:08 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:05:08 - [INFO] - main - --- [CÉREBRO] Calculando Instante 140 ---
+2025-07-21 10:05:08 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:05:08 - [INFO] - main - --- [CÉREBRO] Calculando Instante 141 ---
+2025-07-21 10:05:09 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:05:09 - [INFO] - main - --- [CÉREBRO] Calculando Instante 142 ---
+2025-07-21 10:05:14 - [WARNING] - fast_molecular_dynamics - TIMEOUT! O cálculo foi muito complexo. Corpos permanecem estáticos neste instante.
+2025-07-21 10:05:14 - [INFO] - main - --- [CÉREBRO] Calculando Instante 143 ---
+2025-07-21 10:05:14 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:05:14 - [INFO] - main - --- [CÉREBRO] Calculando Instante 144 ---
+2025-07-21 10:05:14 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:05:14 - [INFO] - main - --- [CÉREBRO] Calculando Instante 145 ---
+2025-07-21 10:05:14 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:05:14 - [INFO] - main - --- [CÉREBRO] Calculando Instante 146 ---
+2025-07-21 10:05:14 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 1296
+2025-07-21 10:05:14 - [INFO] - main - --- [CÉREBRO] Calculando Instante 147 ---
+2025-07-21 10:05:14 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:05:14 - [INFO] - main - --- [CÉREBRO] Calculando Instante 148 ---
+2025-07-21 10:05:14 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:05:14 - [INFO] - main - --- [CÉREBRO] Calculando Instante 149 ---
+2025-07-21 10:05:19 - [WARNING] - fast_molecular_dynamics - TIMEOUT! O cálculo foi muito complexo. Corpos permanecem estáticos neste instante.
+2025-07-21 10:05:19 - [INFO] - main - --- [CÉREBRO] Calculando Instante 150 ---
+2025-07-21 10:05:20 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:05:20 - [INFO] - main - --- [CÉREBRO] Calculando Instante 151 ---
+2025-07-21 10:05:21 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:05:21 - [INFO] - main - --- [CÉREBRO] Calculando Instante 152 ---
+2025-07-21 10:05:26 - [WARNING] - fast_molecular_dynamics - TIMEOUT! O cálculo foi muito complexo. Corpos permanecem estáticos neste instante.
+2025-07-21 10:05:26 - [INFO] - main - --- [CÉREBRO] Calculando Instante 153 ---
+2025-07-21 10:05:26 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:05:26 - [INFO] - main - --- [CÉREBRO] Calculando Instante 154 ---
+2025-07-21 10:05:31 - [WARNING] - fast_molecular_dynamics - TIMEOUT! O cálculo foi muito complexo. Corpos permanecem estáticos neste instante.
+2025-07-21 10:05:31 - [INFO] - main - --- [CÉREBRO] Calculando Instante 155 ---
+2025-07-21 10:05:31 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:05:31 - [INFO] - main - --- [CÉREBRO] Calculando Instante 156 ---
+2025-07-21 10:05:32 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:05:32 - [INFO] - main - --- [CÉREBRO] Calculando Instante 157 ---
+2025-07-21 10:05:33 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:05:33 - [INFO] - main - --- [CÉREBRO] Calculando Instante 158 ---
+2025-07-21 10:05:33 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:05:33 - [INFO] - main - --- [CÉREBRO] Calculando Instante 159 ---
+2025-07-21 10:05:33 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:05:33 - [INFO] - main - --- [CÉREBRO] Calculando Instante 160 ---
+2025-07-21 10:05:33 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:05:33 - [INFO] - main - --- [CÉREBRO] Calculando Instante 161 ---
+2025-07-21 10:05:33 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:05:33 - [INFO] - main - --- [CÉREBRO] Calculando Instante 162 ---
+2025-07-21 10:05:33 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:05:33 - [INFO] - main - --- [CÉREBRO] Calculando Instante 163 ---
+2025-07-21 10:05:34 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:05:34 - [INFO] - main - --- [CÉREBRO] Calculando Instante 164 ---
+2025-07-21 10:05:35 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:05:35 - [INFO] - main - --- [CÉREBRO] Calculando Instante 165 ---
+2025-07-21 10:05:35 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:05:35 - [INFO] - main - --- [CÉREBRO] Calculando Instante 166 ---
+2025-07-21 10:05:35 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:05:35 - [INFO] - main - --- [CÉREBRO] Calculando Instante 167 ---
+2025-07-21 10:05:41 - [WARNING] - fast_molecular_dynamics - TIMEOUT! O cálculo foi muito complexo. Corpos permanecem estáticos neste instante.
+2025-07-21 10:05:41 - [INFO] - main - --- [CÉREBRO] Calculando Instante 168 ---
+2025-07-21 10:05:41 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:05:41 - [INFO] - main - --- [CÉREBRO] Calculando Instante 169 ---
+2025-07-21 10:05:41 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:05:41 - [INFO] - main - --- [CÉREBRO] Calculando Instante 170 ---
+2025-07-21 10:05:42 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 2025
+2025-07-21 10:05:42 - [INFO] - main - --- [CÉREBRO] Calculando Instante 171 ---
+2025-07-21 10:05:47 - [WARNING] - fast_molecular_dynamics - TIMEOUT! O cálculo foi muito complexo. Corpos permanecem estáticos neste instante.
+2025-07-21 10:05:47 - [INFO] - main - --- [CÉREBRO] Calculando Instante 172 ---
+2025-07-21 10:05:47 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:05:47 - [INFO] - main - --- [CÉREBRO] Calculando Instante 173 ---
+2025-07-21 10:05:47 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:05:47 - [INFO] - main - --- [CÉREBRO] Calculando Instante 174 ---
+2025-07-21 10:05:47 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:05:47 - [INFO] - main - --- [CÉREBRO] Calculando Instante 175 ---
+2025-07-21 10:05:47 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:05:47 - [INFO] - main - --- [CÉREBRO] Calculando Instante 176 ---
+2025-07-21 10:05:47 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:05:47 - [INFO] - main - --- [CÉREBRO] Calculando Instante 177 ---
+2025-07-21 10:05:47 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:05:47 - [INFO] - main - --- [CÉREBRO] Calculando Instante 178 ---
+2025-07-21 10:05:47 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:05:47 - [INFO] - main - --- [CÉREBRO] Calculando Instante 179 ---
+2025-07-21 10:05:47 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:05:47 - [INFO] - main - --- [CÉREBRO] Calculando Instante 180 ---
+2025-07-21 10:05:47 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:05:47 - [INFO] - main - --- [CÉREBRO] Calculando Instante 181 ---
+2025-07-21 10:05:48 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:05:48 - [INFO] - main - --- [CÉREBRO] Calculando Instante 182 ---
+2025-07-21 10:05:48 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:05:48 - [INFO] - main - --- [CÉREBRO] Calculando Instante 183 ---
+2025-07-21 10:05:48 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:05:48 - [INFO] - main - --- [CÉREBRO] Calculando Instante 184 ---
+2025-07-21 10:05:53 - [WARNING] - fast_molecular_dynamics - TIMEOUT! O cálculo foi muito complexo. Corpos permanecem estáticos neste instante.
+2025-07-21 10:05:53 - [INFO] - main - --- [CÉREBRO] Calculando Instante 185 ---
+2025-07-21 10:05:53 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:05:53 - [INFO] - main - --- [CÉREBRO] Calculando Instante 186 ---
+2025-07-21 10:05:53 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:05:53 - [INFO] - main - --- [CÉREBRO] Calculando Instante 187 ---
+2025-07-21 10:05:53 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:05:53 - [INFO] - main - --- [CÉREBRO] Calculando Instante 188 ---
+2025-07-21 10:05:53 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:05:54 - [INFO] - main - --- [CÉREBRO] Calculando Instante 189 ---
+2025-07-21 10:05:59 - [WARNING] - fast_molecular_dynamics - TIMEOUT! O cálculo foi muito complexo. Corpos permanecem estáticos neste instante.
+2025-07-21 10:05:59 - [INFO] - main - --- [CÉREBRO] Calculando Instante 190 ---
+2025-07-21 10:05:59 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:05:59 - [INFO] - main - --- [CÉREBRO] Calculando Instante 191 ---
+2025-07-21 10:05:59 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 1936
+2025-07-21 10:05:59 - [INFO] - main - --- [CÉREBRO] Calculando Instante 192 ---
+2025-07-21 10:05:59 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:05:59 - [INFO] - main - --- [CÉREBRO] Calculando Instante 193 ---
+2025-07-21 10:05:59 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:05:59 - [INFO] - main - --- [CÉREBRO] Calculando Instante 194 ---
+2025-07-21 10:05:59 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:05:59 - [INFO] - main - --- [CÉREBRO] Calculando Instante 195 ---
+2025-07-21 10:06:00 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:00 - [INFO] - main - --- [CÉREBRO] Calculando Instante 196 ---
+2025-07-21 10:06:00 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:00 - [INFO] - main - --- [CÉREBRO] Calculando Instante 197 ---
+2025-07-21 10:06:00 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 625
+2025-07-21 10:06:00 - [INFO] - main - --- [CÉREBRO] Calculando Instante 198 ---
+2025-07-21 10:06:01 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:01 - [INFO] - main - --- [CÉREBRO] Calculando Instante 199 ---
+2025-07-21 10:06:01 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:01 - [INFO] - main - --- [CÉREBRO] Calculando Instante 200 ---
+2025-07-21 10:06:01 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:01 - [INFO] - main - --- [CÉREBRO] Calculando Instante 201 ---
+2025-07-21 10:06:03 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:03 - [INFO] - main - --- [CÉREBRO] Calculando Instante 202 ---
+2025-07-21 10:06:03 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:03 - [INFO] - main - --- [CÉREBRO] Calculando Instante 203 ---
+2025-07-21 10:06:03 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:03 - [INFO] - main - --- [CÉREBRO] Calculando Instante 204 ---
+2025-07-21 10:06:03 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:03 - [INFO] - main - --- [CÉREBRO] Calculando Instante 205 ---
+2025-07-21 10:06:03 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:03 - [INFO] - main - --- [CÉREBRO] Calculando Instante 206 ---
+2025-07-21 10:06:04 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:04 - [INFO] - main - --- [CÉREBRO] Calculando Instante 207 ---
+2025-07-21 10:06:04 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:04 - [INFO] - main - --- [CÉREBRO] Calculando Instante 208 ---
+2025-07-21 10:06:05 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:05 - [INFO] - main - --- [CÉREBRO] Calculando Instante 209 ---
+2025-07-21 10:06:05 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:05 - [INFO] - main - --- [CÉREBRO] Calculando Instante 210 ---
+2025-07-21 10:06:05 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:05 - [INFO] - main - --- [CÉREBRO] Calculando Instante 211 ---
+2025-07-21 10:06:05 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:05 - [INFO] - main - --- [CÉREBRO] Calculando Instante 212 ---
+2025-07-21 10:06:05 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:05 - [INFO] - main - --- [CÉREBRO] Calculando Instante 213 ---
+2025-07-21 10:06:05 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:05 - [INFO] - main - --- [CÉREBRO] Calculando Instante 214 ---
+2025-07-21 10:06:05 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:05 - [INFO] - main - --- [CÉREBRO] Calculando Instante 215 ---
+2025-07-21 10:06:05 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 1936
+2025-07-21 10:06:05 - [INFO] - main - --- [CÉREBRO] Calculando Instante 216 ---
+2025-07-21 10:06:06 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:06 - [INFO] - main - --- [CÉREBRO] Calculando Instante 217 ---
+2025-07-21 10:06:06 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:06 - [INFO] - main - --- [CÉREBRO] Calculando Instante 218 ---
+2025-07-21 10:06:06 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:06 - [INFO] - main - --- [CÉREBRO] Calculando Instante 219 ---
+2025-07-21 10:06:06 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:06 - [INFO] - main - --- [CÉREBRO] Calculando Instante 220 ---
+2025-07-21 10:06:07 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:07 - [INFO] - main - --- [CÉREBRO] Calculando Instante 221 ---
+2025-07-21 10:06:08 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:08 - [INFO] - main - --- [CÉREBRO] Calculando Instante 222 ---
+2025-07-21 10:06:08 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:08 - [INFO] - main - --- [CÉREBRO] Calculando Instante 223 ---
+2025-07-21 10:06:08 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 1
+2025-07-21 10:06:08 - [INFO] - main - --- [CÉREBRO] Calculando Instante 224 ---
+2025-07-21 10:06:08 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:08 - [INFO] - main - --- [CÉREBRO] Calculando Instante 225 ---
+2025-07-21 10:06:08 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:08 - [INFO] - main - --- [CÉREBRO] Calculando Instante 226 ---
+2025-07-21 10:06:08 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:09 - [INFO] - main - --- [CÉREBRO] Calculando Instante 227 ---
+2025-07-21 10:06:09 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:09 - [INFO] - main - --- [CÉREBRO] Calculando Instante 228 ---
+2025-07-21 10:06:09 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:09 - [INFO] - main - --- [CÉREBRO] Calculando Instante 229 ---
+2025-07-21 10:06:09 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 2025
+2025-07-21 10:06:09 - [INFO] - main - --- [CÉREBRO] Calculando Instante 230 ---
+2025-07-21 10:06:09 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:09 - [INFO] - main - --- [CÉREBRO] Calculando Instante 231 ---
+2025-07-21 10:06:10 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:10 - [INFO] - main - --- [CÉREBRO] Calculando Instante 232 ---
+2025-07-21 10:06:10 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:10 - [INFO] - main - --- [CÉREBRO] Calculando Instante 233 ---
+2025-07-21 10:06:10 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:10 - [INFO] - main - --- [CÉREBRO] Calculando Instante 234 ---
+2025-07-21 10:06:10 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:10 - [INFO] - main - --- [CÉREBRO] Calculando Instante 235 ---
+2025-07-21 10:06:10 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:10 - [INFO] - main - --- [CÉREBRO] Calculando Instante 236 ---
+2025-07-21 10:06:10 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:10 - [INFO] - main - --- [CÉREBRO] Calculando Instante 237 ---
+2025-07-21 10:06:10 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:10 - [INFO] - main - --- [CÉREBRO] Calculando Instante 238 ---
+2025-07-21 10:06:10 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:11 - [INFO] - main - --- [CÉREBRO] Calculando Instante 239 ---
+2025-07-21 10:06:11 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:11 - [INFO] - main - --- [CÉREBRO] Calculando Instante 240 ---
+2025-07-21 10:06:11 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:11 - [INFO] - main - --- [CÉREBRO] Calculando Instante 241 ---
+2025-07-21 10:06:14 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:14 - [INFO] - main - --- [CÉREBRO] Calculando Instante 242 ---
+2025-07-21 10:06:15 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:15 - [INFO] - main - --- [CÉREBRO] Calculando Instante 243 ---
+2025-07-21 10:06:15 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:15 - [INFO] - main - --- [CÉREBRO] Calculando Instante 244 ---
+2025-07-21 10:06:15 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:15 - [INFO] - main - --- [CÉREBRO] Calculando Instante 245 ---
+2025-07-21 10:06:16 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:16 - [INFO] - main - --- [CÉREBRO] Calculando Instante 246 ---
+2025-07-21 10:06:16 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:16 - [INFO] - main - --- [CÉREBRO] Calculando Instante 247 ---
+2025-07-21 10:06:16 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:16 - [INFO] - main - --- [CÉREBRO] Calculando Instante 248 ---
+2025-07-21 10:06:17 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:17 - [INFO] - main - --- [CÉREBRO] Calculando Instante 249 ---
+2025-07-21 10:06:17 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:17 - [INFO] - main - --- [CÉREBRO] Calculando Instante 250 ---
+2025-07-21 10:06:17 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:17 - [INFO] - main - --- [CÉREBRO] Calculando Instante 251 ---
+2025-07-21 10:06:18 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:18 - [INFO] - main - --- [CÉREBRO] Calculando Instante 252 ---
+2025-07-21 10:06:18 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:18 - [INFO] - main - --- [CÉREBRO] Calculando Instante 253 ---
+2025-07-21 10:06:18 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:18 - [INFO] - main - --- [CÉREBRO] Calculando Instante 254 ---
+2025-07-21 10:06:18 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:18 - [INFO] - main - --- [CÉREBRO] Calculando Instante 255 ---
+2025-07-21 10:06:18 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 441
+2025-07-21 10:06:18 - [INFO] - main - --- [CÉREBRO] Calculando Instante 256 ---
+2025-07-21 10:06:18 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:18 - [INFO] - main - --- [CÉREBRO] Calculando Instante 257 ---
+2025-07-21 10:06:18 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:18 - [INFO] - main - --- [CÉREBRO] Calculando Instante 258 ---
+2025-07-21 10:06:19 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:19 - [INFO] - main - --- [CÉREBRO] Calculando Instante 259 ---
+2025-07-21 10:06:24 - [WARNING] - fast_molecular_dynamics - TIMEOUT! O cálculo foi muito complexo. Corpos permanecem estáticos neste instante.
+2025-07-21 10:06:24 - [INFO] - main - --- [CÉREBRO] Calculando Instante 260 ---
+2025-07-21 10:06:24 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:24 - [INFO] - main - --- [CÉREBRO] Calculando Instante 261 ---
+2025-07-21 10:06:24 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 484
+2025-07-21 10:06:24 - [INFO] - main - --- [CÉREBRO] Calculando Instante 262 ---
+2025-07-21 10:06:24 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:24 - [INFO] - main - --- [CÉREBRO] Calculando Instante 263 ---
+2025-07-21 10:06:25 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:25 - [INFO] - main - --- [CÉREBRO] Calculando Instante 264 ---
+2025-07-21 10:06:25 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:25 - [INFO] - main - --- [CÉREBRO] Calculando Instante 265 ---
+2025-07-21 10:06:25 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:25 - [INFO] - main - --- [CÉREBRO] Calculando Instante 266 ---
+2025-07-21 10:06:25 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:25 - [INFO] - main - --- [CÉREBRO] Calculando Instante 267 ---
+2025-07-21 10:06:26 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:26 - [INFO] - main - --- [CÉREBRO] Calculando Instante 268 ---
+2025-07-21 10:06:26 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:26 - [INFO] - main - --- [CÉREBRO] Calculando Instante 269 ---
+2025-07-21 10:06:26 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:26 - [INFO] - main - --- [CÉREBRO] Calculando Instante 270 ---
+2025-07-21 10:06:26 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:26 - [INFO] - main - --- [CÉREBRO] Calculando Instante 271 ---
+2025-07-21 10:06:26 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:26 - [INFO] - main - --- [CÉREBRO] Calculando Instante 272 ---
+2025-07-21 10:06:26 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:26 - [INFO] - main - --- [CÉREBRO] Calculando Instante 273 ---
+2025-07-21 10:06:26 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:26 - [INFO] - main - --- [CÉREBRO] Calculando Instante 274 ---
+2025-07-21 10:06:27 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:27 - [INFO] - main - --- [CÉREBRO] Calculando Instante 275 ---
+2025-07-21 10:06:27 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:27 - [INFO] - main - --- [CÉREBRO] Calculando Instante 276 ---
+2025-07-21 10:06:27 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:27 - [INFO] - main - --- [CÉREBRO] Calculando Instante 277 ---
+2025-07-21 10:06:27 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:27 - [INFO] - main - --- [CÉREBRO] Calculando Instante 278 ---
+2025-07-21 10:06:27 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:27 - [INFO] - main - --- [CÉREBRO] Calculando Instante 279 ---
+2025-07-21 10:06:27 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:27 - [INFO] - main - --- [CÉREBRO] Calculando Instante 280 ---
+2025-07-21 10:06:29 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:29 - [INFO] - main - --- [CÉREBRO] Calculando Instante 281 ---
+2025-07-21 10:06:29 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:29 - [INFO] - main - --- [CÉREBRO] Calculando Instante 282 ---
+2025-07-21 10:06:29 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:29 - [INFO] - main - --- [CÉREBRO] Calculando Instante 283 ---
+2025-07-21 10:06:29 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:29 - [INFO] - main - --- [CÉREBRO] Calculando Instante 284 ---
+2025-07-21 10:06:29 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:29 - [INFO] - main - --- [CÉREBRO] Calculando Instante 285 ---
+2025-07-21 10:06:34 - [WARNING] - fast_molecular_dynamics - TIMEOUT! O cálculo foi muito complexo. Corpos permanecem estáticos neste instante.
+2025-07-21 10:06:34 - [INFO] - main - --- [CÉREBRO] Calculando Instante 286 ---
+2025-07-21 10:06:34 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 441
+2025-07-21 10:06:34 - [INFO] - main - --- [CÉREBRO] Calculando Instante 287 ---
+2025-07-21 10:06:39 - [WARNING] - fast_molecular_dynamics - TIMEOUT! O cálculo foi muito complexo. Corpos permanecem estáticos neste instante.
+2025-07-21 10:06:39 - [INFO] - main - --- [CÉREBRO] Calculando Instante 288 ---
+2025-07-21 10:06:39 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:39 - [INFO] - main - --- [CÉREBRO] Calculando Instante 289 ---
+2025-07-21 10:06:39 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:40 - [INFO] - main - --- [CÉREBRO] Calculando Instante 290 ---
+2025-07-21 10:06:40 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:40 - [INFO] - main - --- [CÉREBRO] Calculando Instante 291 ---
+2025-07-21 10:06:40 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:40 - [INFO] - main - --- [CÉREBRO] Calculando Instante 292 ---
+2025-07-21 10:06:40 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:40 - [INFO] - main - --- [CÉREBRO] Calculando Instante 293 ---
+2025-07-21 10:06:45 - [WARNING] - fast_molecular_dynamics - TIMEOUT! O cálculo foi muito complexo. Corpos permanecem estáticos neste instante.
+2025-07-21 10:06:45 - [INFO] - main - --- [CÉREBRO] Calculando Instante 294 ---
+2025-07-21 10:06:45 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:45 - [INFO] - main - --- [CÉREBRO] Calculando Instante 295 ---
+2025-07-21 10:06:45 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:45 - [INFO] - main - --- [CÉREBRO] Calculando Instante 296 ---
+2025-07-21 10:06:46 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:46 - [INFO] - main - --- [CÉREBRO] Calculando Instante 297 ---
+2025-07-21 10:06:46 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:46 - [INFO] - main - --- [CÉREBRO] Calculando Instante 298 ---
+2025-07-21 10:06:46 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:46 - [INFO] - main - --- [CÉREBRO] Calculando Instante 299 ---
+2025-07-21 10:06:46 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:46 - [INFO] - main - --- [CÉREBRO] Calculando Instante 300 ---
+2025-07-21 10:06:46 - [INFO] - fast_molecular_dynamics - Energia potencial do sistema resolvida para: 0
+2025-07-21 10:06:46 - [INFO] - main - --- [CÉREBRO] Todos os passos calculados. Encerrando a thread. ---
+2025-07-21 10:36:03 - [INFO] - main - Imagem final salva em: runs\20250721-100209_Fast_Molecular_Dynamics_01\final_state.png
+2025-07-21 10:36:03 - [INFO] - main - --- Simulação Terminada ---

@@ -1,0 +1,29 @@
+{
+    "simulation_name": "Fast_Molecular_Dynamics_01",
+    "width": 50,
+    "height": 40,
+    "steps": 300,
+    "physics_module": "fast_molecular_dynamics",
+    "bodies": [
+        {
+            "id": 0,
+            "x": 10,
+            "y": 20,
+            "color": [100, 200, 255],
+            "trail_color": [100, 200, 255, 100],
+            "radius_factor": 0.3,
+            "vis_config": {
+                "cell_size": 15
+            }
+        },
+        {
+            "id": 1,
+            "x": 40,
+            "y": 20,
+            "color": [255, 100, 100],
+            "trail_color": [255, 100, 100, 100],
+            "radius_factor": 0.3
+        }
+    ],
+    "logging_level": "INFO"
+}
