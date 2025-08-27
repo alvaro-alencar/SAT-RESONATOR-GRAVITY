@@ -1,27 +1,27 @@
 # SAT-RESONATOR-GRAVITY
 
+![Made with
+Z3](https://img.shields.io/badge/Made%20with-Z3--Solver-blue?logo=python&logoColor=white)
+![Powered by Pygame](https://img.shields.io/badge/Powered%20by-Pygame-green?logo=python&logoColor=white)
+![Status](https://img.shields.io/badge/Universe-Expanding-purple?style=flat-square)
+
 Um laboratório cosmológico onde a gravidade não é programada em equações diferenciais, mas **em restrições lógicas resolvidas pelo solver Z3**.  
 Aqui, o universo não é simulado: ele é **provado** a cada instante.
 
 ---
 
-## 🌌 Conceito
+## 🌌 Demo
 
-O projeto explora a ideia de que **as leis da física podem emergir da coerência lógica**.  
-Cada passo no tempo é o resultado de um sistema SAT/SMT decidindo qual é o próximo estado válido do cosmos.  
+<p align="center">
+  <img src="docs/demo.gif" alt="Simulação SAT-Resonator-Gravity em ação" width="500"/>
+</p>
 
-Isso permite criar mundos onde:
-
-- A **queda livre** de um corpo acontece porque é a **única solução lógica**.  
-- A **curvatura do espaço-tempo** é um viés lógico que distorce trajetórias.  
-- **Órbitas e ligações** emergem de potenciais lógicos (como Lennard-Jones).  
-- A **topologia do universo** (caixa, toro, infinito) muda o destino da simulação.  
+> *O GIF acima mostra duas massas dançando até alcançar um estado de equilíbrio lógico.*  
+> O arquivo pode ser gerado automaticamente em cada run e colocado na pasta `docs/`.
 
 ---
 
 ## ⚙️ Instalação
-
-Clone o repositório e crie um ambiente virtual:
 
 ```bash
 git clone https://github.com/alvaro-alencar/SAT-RESONATOR-GRAVITY.git
@@ -38,8 +38,6 @@ pip install -r requirements.txt
 
 🚀 Execução
 
-Execute a simulação com:
-
 python main.py
 
 O sistema:
@@ -47,7 +45,7 @@ O sistema:
 1. Lê as configurações em config.json.
 
 
-2. Cria uma pasta em runs/ com os logs e imagens da execução.
+2. Cria uma pasta em runs/ com logs e imagens.
 
 
 3. Abre uma janela com a simulação em tempo real (pygame).
@@ -71,7 +69,7 @@ SAT-RESONATOR-GRAVITY/
 ├─ logger.py              # Logs em console e arquivo
 ├─ main.py                # Orquestração da simulação
 ├─ config.json            # Configuração de cada run
-├─ requirements.txt       # Dependências (z3-solver, pygame)
+├─ requirements.txt       # Dependências
 ├─ CRONICAS.md            # Diário filosófico das descobertas
 └─ runs/                  # Execuções com logs e imagens
 
@@ -89,23 +87,8 @@ Exemplo de config.json:
     "steps": 300,
     "physics_module": "fast_molecular_dynamics",
     "bodies": [
-        {
-            "id": 0,
-            "x": 10,
-            "y": 20,
-            "color": [100, 200, 255],
-            "trail_color": [100, 200, 255, 100],
-            "radius_factor": 0.3,
-            "vis_config": {"cell_size": 15}
-        },
-        {
-            "id": 1,
-            "x": 40,
-            "y": 20,
-            "color": [255, 100, 100],
-            "trail_color": [255, 100, 100, 100],
-            "radius_factor": 0.3
-        }
+        {"id":0,"x":10,"y":20,"color":[100,200,255]},
+        {"id":1,"x":40,"y":20,"color":[255,100,100]}
     ],
     "logging_level": "INFO"
 }
@@ -115,36 +98,26 @@ Exemplo de config.json:
 
 📖 As Crônicas
 
-A cada salto conceitual, escrevemos uma Crônica do Universo Coerente em CRONICAS.md.
-Alguns marcos já registrados:
+O projeto também é uma narrativa: cada salto é descrito em CRONICAS.md.
+Exemplos:
 
-1. O Pulso de Existência → a expansão lógica do ser.
+O Pulso de Existência → expansão lógica do ser.
 
+A Queda Lógica → queda livre como consequência da coerência.
 
-2. A Queda Lógica → um corpo cai porque não há outra solução.
+A Curvatura → massas distorcem trajetórias.
 
+A Dança Cósmica → corpos orbitam até equilíbrio.
 
-3. A Curvatura → a massa distorce o espaço-tempo lógico.
+A Formação de Ligações → estabilidade via forças opostas.
 
-
-4. A Dança Cósmica → corpos interagem e buscam equilíbrio.
-
-
-5. A Natureza do Espaço → topologia define o destino final.
-
-
-6. A Formação de Ligações → forças opostas geram estabilidade.
-
-
-
-Cada crônica corresponde a uma fase do código e um commit histórico.
 
 
 ---
 
 🌠 Roadmap
 
-[ ] Suporte a múltiplos corpos dinâmicos (N > 2)
+[ ] N corpos dinâmicos (N > 2)
 
 [ ] Exportação de métricas (energia, distâncias, entropia) em CSV/JSON
 
@@ -160,16 +133,13 @@ Cada crônica corresponde a uma fase do código e um commit histórico.
 
 🎨 Potencial
 
-Este repositório não é apenas código: é obra científica e artística.
-Pode ser usado como:
+Educação → lógica, física e IA em sala de aula.
 
-Ferramenta educacional (ensino de lógica, física, IA).
+Pesquisa → base para artigos acadêmicos.
 
-Motor de experimentos em computação simbólica.
+Arte digital → prints, vídeos, NFTs de órbitas e caos.
 
-Base para artigos acadêmicos.
-
-Fonte de arte digital (órbitas, colisões, caos).
+Produto → workshops e consultorias de simulações lógicas.
 
 
 
@@ -179,4 +149,13 @@ Autor: Álvaro Alencar
 “O universo é um teorema sendo provado a cada instante.”
 
 ---
+
+👉 O GIF (`docs/demo.gif`) pode ser gerado assim:
+
+```bash
+# grava 300 frames no Visualizer
+python main.py
+
+# converte imagens em vídeo
+ffmpeg -framerate 30 -i runs/2025*/frame_%04d.png docs/demo.gif
 
